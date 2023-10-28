@@ -1,2 +1,2 @@
 # odin-recipes
-this is page made only with html
+this page is made with html only
